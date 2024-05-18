@@ -1,5 +1,5 @@
 # Goal
-Create a workflow oriented toward web3 & general productivity. 
+Create a secure, privacy-friendly and productive work environment,  
 
 # Vision
 Ongoing iteration and improvement in open-source fashion, in the name of privacy, productivity, security and positive value creation.
