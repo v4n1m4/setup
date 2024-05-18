@@ -9,32 +9,21 @@ Ongoing iteration and improvement in open-source fashion, in the name of privacy
 
 # Git
 
-## basics: Basic system preference security & privacy hardening.
+## basics.md: Basic system preference security & privacy hardenin (documentation in progress)
 
 This is the easiest set of steps for anyone to follow from a long-time user (and skeptic) of Apple products. Focused on minimal drawbacks and maximum security/privacy.
 
-// in progress:
-// a list of all tweaks & why + drawbacks. 
-
-## system-hardening: System & Software Security Hardening
+## system-hardening.md: System & Software Security Hardening (documentation in progress)
 
 A system & software security hardening approach created and successfully applied with ChatGPT-4. 
 
-// in progress:
-// List of all GPT-4 prompts and necessary surrounding information extracted.
-
-## browser-hardening: Browser Security Hardening
+## browser-hardening.md: Browser Security Hardening (documentation in progress)
 
 A browser security hardening approach to further tighten the privacy and security screws of Mozilla Firefox (in my opinion, the best browser for productivity, security and privacy).
 
-// in progress:
-// List of all GPT-4 prompts and necessary surrounding information extracted.
+## work-environment.md: Workflow software stack (documentation in progress)
 
-## software: Workflow software stack.
-
-Necessary software for extended/enhanced system operation.
-
-// List of all installed software that was researched with the help of GPT-4.
+Necessary software, extensions, scripts, tweaks etc. for enabling or enhancing workflow.
 
 # Going forward
 
