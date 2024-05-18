@@ -1,8 +1,5 @@
 # Goal
-Create a secure, privacy-friendly and productive work environment,  
-
-# Vision
-Ongoing iteration and improvement in open-source fashion, in the name of privacy, productivity, security and positive value creation.
+Create and maintain a privacy-friendly, productive and secure work environment,  
 
 # Hardware
 13" MacBook Air (Factory state): 8-core (4 performance 4 efficiency) Apple M3 Chip, 24GB of memory and running MacOS Sonoma 14.4.1 (at time of writing)
