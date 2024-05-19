@@ -8,7 +8,7 @@ Create and maintain a privacy-friendly, productive and secure work environment,
 
 ## basics.md: Basic system preference security & privacy hardenin (documentation in progress)
 
-This is the easiest set of steps for anyone to follow from a long-time user (and skeptic) of Apple products. Focused on minimal drawbacks and maximum security/privacy.
+System preferences that might enable you to be more private/secure than a user who starts using their mac from factory state.
 
 ## system-hardening.md: System & Software Security Hardening (documentation in progress)
 
