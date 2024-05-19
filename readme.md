@@ -24,4 +24,4 @@ Necessary software, extensions, scripts, tweaks etc. for enabling or enhancing w
 
 # Going forward
 
-If anyone would like to propose an update to anything, please feel absolutely free to do (preferably with link(s)). I'll attend to it at one point or another.
+If anyone would like to propose an update to anything, please feel absolutely free to do (preferably with links). I'll attend to it at one point or another.
