@@ -6,9 +6,9 @@ Create and maintain a privacy-friendly, productive and secure work environment,
 
 # Git
 
-## basics.md: Basic system preference security & privacy hardenin (documentation in progress)
+## basics.md: Basic system preference security & privacy guide.
 
-System preferences that might enable you to be more private/secure than a user who starts using their mac from factory state.
+These tweaks might enable you to be more private/secure than a user who starts using their mac from factory state.
 
 ## system-hardening.md: System & Software Security Hardening (documentation in progress)
 
