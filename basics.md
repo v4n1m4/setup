@@ -1,5 +1,6 @@
 # Basic privacy & security tightening on system preferences, by category on macOS 14.5 (Sonoma)
-Very basic system preference tweaks that might help keep you to be a little more secure/private than a normal user. 
+
+These tweaks might enable you to be more private/secure than a user who starts using their mac from factory state. Ordered from top to bottom, excluding categories with no changes/that are seemingly unrelated to privacy/security.
 
 ### Wi-Fi
 - Your Network > Details > Limit IP Address Tracking (On, usually default)
