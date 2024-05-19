@@ -1,4 +1,4 @@
-# Basic privacy & security tightening on system preferences, by category on OS 14.5 (Sonoma)
+# Basic privacy & security tightening on system preferences, by category on macOS 14.5 (Sonoma)
 Very basic system preference tweaks that might help keep you to be a little more secure/private than a normal user. 
 
 ### Wi-Fi
