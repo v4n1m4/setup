@@ -1,3 +1,6 @@
+# Progress
+~50%. Had to get back to more important projects. This git will be completed in the near future.
+
 # Goal
 Create and maintain a privacy-friendly, productive and secure work environment,  
 
